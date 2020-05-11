@@ -5,3 +5,7 @@
 .center {
     margin-left: 350px;
 }
+
+header {
+    height: 100vh;
+}
